@@ -7,7 +7,7 @@
     "start": "node app.js",
     "test": "mocha",
     "knex": "knex",
-    "heroku-postbuild": "knex migrate:latest"
+    "heroku-postbuild": "knex migrate:latest && knex seed:run" 
   },
   "repository": {
     "type": "git",
@@ -34,7 +34,7 @@
     "jsonwebtoken": "^7.2.1",
     "knex": "^0.12.6",
     "morgan": "^1.7.0",
-    "pg": "^6.1.1"
+    "pg": "^6.1.2"
   },
   "devDependencies": {
     "chai": "^3.5.0",
