@@ -10,7 +10,7 @@ Our current deployed version is here: [https://nightlite-app.herokuapp.com/](ht
 
 ### Some Disclaimers
 
-A walkthrough will be provided so you can experience the app, but for the time being, here are some other ways you can use it:
+A walkthrough will be provided so you can experience the app, but here are some other ways you can use it:
 
 1. You can create a new account and login using the Heroku deployment link.
 2. You can also fork and clone, and run from localhost:8000.
