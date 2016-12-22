@@ -26,5 +26,5 @@ A walkthrough will be provided so you can experience the app, or here are some o
 
 1. **ArcGIS API:** Used to get map data.
 2. **ESRI ArcGIS**: Used to dynamically plot points on a map, use geolocation to plot user's current location and access light pollution layers.
-3. This app uses **Materialize** for the front-end design . To build our database, we used **PostgreSQL** and **Express** to query it.
+3. This app uses **Materialize** for the front-end design. To build our database, we used **PostgreSQL** and **Express** to query it.
 
