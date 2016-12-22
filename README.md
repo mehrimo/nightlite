@@ -6,7 +6,7 @@ Check out a walkthrough of our app here: [https://youtu.be/jhVOPEd9WoQ](https://
 
 Our current deployed version is here: [https://nightlite-app.herokuapp.com/](https://nightlite-app.herokuapp.com/)
 
-!Inline-style: ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+ ![alt text](https://github.com/mehrimo/nightlite/blob/master/public/imgs/screenshot_index.png?raw=true)
 
 ### Some Disclaimers
 
