@@ -6,6 +6,8 @@ Check out a walkthrough of our app here: [https://youtu.be/jhVOPEd9WoQ](https://
 
 Our current deployed version is here: [https://nightlite-app.herokuapp.com/](https://nightlite-app.herokuapp.com/)
 
+![Screen Shot 2016-12-22 at 1.35.07 PM](/Users/mehri/Desktop/Screen Shot 2016-12-22 at 1.35.07 PM.png)
+
 ### Some Disclaimers
 
 A walkthrough will be provided so you can experience the app, but for the time being, here are some other ways you can use it:
