@@ -6,6 +6,10 @@ Check out a walkthrough of our app here: [https://youtu.be/jhVOPEd9WoQ](https://
 
 Our current deployed version is here: [https://nightlite-app.herokuapp.com/](https://nightlite-app.herokuapp.com/)
 
+#### My Role
+
+I was in charge of the overall look and feel of the site – front end design, custom logo, color scheme and page layout. I also assisted with displaying the form data and modals correctly.
+
  ![alt text](https://github.com/mehrimo/nightlite/blob/master/public/imgs/screenshot_index.png?raw=true)
 
 ### Some Disclaimers
